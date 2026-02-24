@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+
+<users>
+
+    <user>
+        <id>1</id>
+        <name>Rahul</name>
+        <role>Student</role>
+        <department>CSE</department>
+        <email>rahul@gitam.edu</email>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Anjali</name>
+        <role>Faculty</role>
+        <department>ECE</department>
+        <email>anjali@gitam.edu</email>
+    </user>
+
+    <user>
+        <id>3</id>
+        <name>Kiran</name>
+        <role>Student</role>
+        <department>IT</department>
+        <email>kiran@gitam.edu</email>
+    </user>
+
+    <user>
+        <id>4</id>
+        <name>Meena</name>
+        <role>Faculty</role>
+        <department>EEE</department>
+        <email>meena@gitam.edu</email>
+    </user>
+
+    <user>
+        <id>5</id>
+        <name>Arjun</name>
+        <role>Student</role>
+        <department>CSE</department>
+        <email>arjun@gitam.edu</email>
+    </user>
+
+    <user>
+        <id>6</id>
+        <name>Divya</name>
+        <role>Faculty</role>
+        <department>MECH</department>
+        <email>divya@gitam.edu</email>
+    </user>
+
+    <user>
+        <id>7</id>
+        <name>Vikas</name>
+        <role>Student</role>
+        <department>CIVIL</department>
+        <email>vikas@gitam.edu</email>
+    </user>
+
+    <user>
+        <id>8</id>
+        <name>Sneha</name>
+        <role>Faculty</role>
+        <department>CSE</department>
+        <email>sneha@gitam.edu</email>
+    </user>
+
+    <user>
+        <id>9</id>
+        <name>Ravi</name>
+        <role>Student</role>
+        <department>IT</department>
+        <email>ravi@gitam.edu</email>
+    </user>
+
+    <user>
+        <id>10</id>
+        <name>Pooja</name>
+        <role>Faculty</role>
+        <department>ECE</department>
+        <email>pooja@gitam.edu</email>
+    </user>
+
+</users>
